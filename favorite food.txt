@@ -2,3 +2,4 @@ pizza
 chinese
 chocolates
 icecream
+south indian
